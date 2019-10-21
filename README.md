@@ -1,7 +1,7 @@
 # hello-world
-The first repository for study Git hub
+The first repository for study Git hub\n
 
-#include<stdio.h>
+#include<stdio.h>\n
 int main()
 {
   printf("Hello world");
